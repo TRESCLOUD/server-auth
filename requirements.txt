@@ -1,5 +1,5 @@
 # generated from manifests external_dependencies
-cryptography
+# cryptography NO AGREGAR ESTA DEPENDENCIA POR CONFLICTOS CON EL SH
 email_validator
 lxml
 pyjwt
